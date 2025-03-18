@@ -9,4 +9,4 @@ spec:
   owner: equipo-ejemplo
   system: sistema-ejemplo
   definition:
-    $text: ./ejemplo-api.oas.yaml
+    $text: ./catalog-info.yaml
