@@ -9,4 +9,4 @@ spec:
   owner: equipo-ejemplo
   system: sistema-ejemplo
   definition:
-    $text: ./catalog-info.yaml
+    $openapi: https://raw.githubusercontent.com/JorgeTrinidadHerrera/Laboratorio11/master/ejemplo-api.oas.yaml
